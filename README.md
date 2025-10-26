@@ -77,13 +77,6 @@ Big, clean aura icons for **target** and **focus** with smart priority, an optio
 
 ## 🛠 Development
 
-**Folder layout:**
-BigAurasLite/
-├─ BigAurasLite.toc
-├─ BigAurasLite.lua
-├─ BigAurasLite_Options.lua
-└─ BigAurasLite_Defaults.lua
-
 **Packaging a release:**
 
 1. Ensure the folder name is `BigAurasLite`.
@@ -108,8 +101,3 @@ BigAurasLite/
 MIT — see [`LICENSE`](./LICENSE).
 
 ---
-
-## 🙌 Credits
-
-Author: MRWH1TE117  
-Contributors: (add yourself/PR authors)
