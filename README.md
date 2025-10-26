@@ -77,12 +77,6 @@ Big, clean aura icons for **target** and **focus** with smart priority, an optio
 
 ## 🛠 Development
 
-**Packaging a release:**
-
-1. Ensure the folder name is `BigAurasLite`.
-2. Zip the **contents** of that folder (so the zip root is `BigAurasLite/…`) as `BigAurasLite-vX.Y.Z.zip`.
-3. Upload to GitHub **Releases**.
-
 **Versioning:** `MAJOR.MINOR.PATCH` (e.g., `1.11.0`).
 
 ---
