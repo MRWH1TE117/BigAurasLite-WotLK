@@ -25,9 +25,9 @@ Big, clean aura icons for **target** and **focus** with smart priority, an optio
 
 ## 📦 Installation
 
-1. Code > Download ZIP, rename BigAurasLite-WotLK to BigAurasLite
-2. Place the folder BigAurasLite into: World of Warcraft\Interface\AddOns\
-3. In-game, enable Load out of date addons if needed.
+1. Code > Download ZIP, rename **`BigAurasLite-WotLK`** to **`BigAurasLite`**
+2. Place the folder **`BigAurasLite`** into: World of Warcraft\Interface\AddOns\
+3. In-game, enable **Load out of date addons** if needed.
 4. Enter the world — the addon works out of the box.
 
 ---
