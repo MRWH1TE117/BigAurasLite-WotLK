@@ -25,11 +25,10 @@ Big, clean aura icons for **target** and **focus** with smart priority, an optio
 
 ## 📦 Installation
 
-1. Download the `.zip` from **Releases** and **extract** it.
-2. Place the **BigAurasLite** folder into:
-   - Windows (typical WotLK clients): `World of Warcraft\Interface\AddOns\`
-   - Make sure **BigAurasLite.toc** is directly inside the folder (no extra nesting).
-3. Launch the game and enable the addon on the character select screen.
+1. Code > Download ZIP, rename BigAurasLite-WotLK to BigAurasLite
+2. Place the folder BigAurasLite into: World of Warcraft\Interface\AddOns\
+3. In-game, enable Load out of date addons if needed.
+4. Enter the world — the addon works out of the box.
 
 ---
 
